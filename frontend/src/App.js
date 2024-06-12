@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { gql, useQuery } from '@apollo/client';
-import BookList from './components/BookList';
-import ReadingList from './components/ReadingList';
-import SearchBar from './components/SearchBar';
+import BookList from './Components/BookList';
+import ReadingList from './Components/ReadingList';
+import SearchBar from './Components/SearchBar';
 
 import './App.css';
 
